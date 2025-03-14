@@ -24,135 +24,60 @@ Each folder contains:
 - Notes or explanations regarding the solution 📝
 
 
-## 🤝 Contributing
 
-If you have any suggestions or improvements, feel free to fork the repository, create an issue, or submit a pull request! 🙌
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Good luck with the hackathon! 🎉 Let's get IntelliHack NextGet 2024 rolling! 🚀
-
-
-
-
-🛠️ Usage
-
-To run the solutions, navigate to the respective folder and execute the Python script. For example:
-
-cd Q1
-python solution.py
-
-📝 Requirements
-
-Ensure you have Python installed on your machine. You may also need to install additional libraries specified in each script.
-
-⚠️ Disclaimer
-
-The solutions are based on the questions from the IntelliHack NextGet 2024 first round and may contain dummy data for demonstration purposes.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-# IntelliHack NextGet 2024 - Hackathon First Round
-
-Welcome to my repo for the IntelliHack NextGet 2024 hackathon! 🎉 This repository contains my solutions for the first round questions.
-
-## 📁 Repository Structure
-
-The repo is organized into 4 folders, corresponding to the questions I worked on:
-
-- **Q1** - Question 1 Solution 💡
-- **Q2** - Question 2 Solution 🧠
-- **Q3** - Question 3 Solution 🔧
-- **Q4** - Question 4 Solution 🏆
-
-Each folder contains:
-- The code used to solve the question 🖥️
-- Any relevant data files (dummy data for demonstration) 📊
-- Notes or explanations regarding the solution 📝
-
-## 🚀 Getting Started
-
-To run the solutions locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/IntelliHack-NextGet-2024.git
-    cd IntelliHack-NextGet-2024
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the solutions**:
-   - For Q1:
-     ```bash
-     python Q1/solution.py
-     ```
-   - For Q2:
-     ```bash
-     python Q2/solution.py
-     ```
-   - For Q3:
-     ```bash
-     python Q3/solution.py
-     ```
-   - For Q4:
-     ```bash
-     python Q4/solution.py
-     ```
-
-## 🧑‍💻 Demo
+## 📝 Problem Statements and Solutions
 
 Here’s a quick demo of how the solutions work, using dummy data:
 
-### Q1 Solution 💡
-- **Objective**: Solve the problem related to data cleaning and transformation.
-- **Example**: In the `Q1` folder, the script performs basic data cleaning tasks on a dummy dataset (such as missing values and data normalization).
-- **Output**: Cleaned data ready for analysis.
+### 🌾 Q1 - Crop Prediction
 
-### Q2 Solution 🧠
-- **Objective**: Apply machine learning for prediction tasks.
-- **Example**: In the `Q2` folder, a simple model is trained using dummy data to predict an outcome based on features.
-- **Output**: Model performance metrics and predicted values.
+The objective of this solution is to predict the most appropriate crop based on environmental conditions such as temperature, humidity, and soil quality. Machine learning techniques are employed to analyze the given data and recommend the best-suited crop.
 
-### Q3 Solution 🔧
-- **Objective**: Perform feature engineering on a dataset.
-- **Example**: In the `Q3` folder, features are created from dummy data, followed by model training.
-- **Output**: Enhanced features and trained model.
+### 💬 Q2 - Intent Recognition
 
-### Q4 Solution 🏆
-- **Objective**: Optimize a model for better performance.
-- **Example**: In the `Q4` folder, hyperparameter tuning is done to optimize a model’s accuracy.
-- **Output**: Best-performing model with optimal parameters.
+This solution aims to identify the intent of a given conversation. The possible intents include offensive, compliment, informal greeting, farewell, formal greet, and inquiry. Using Natural Language Processing (NLP) techniques, the model accurately detects the intention behind each conversation.
 
-## 📊 Data Used
+🤖 Q3 - Smart Bank Chatbot
 
-- Dummy data is used for demonstration purposes in all questions. These datasets simulate real-world problems and their solutions.
-- Feel free to replace them with real data for practical use.
+The goal of this solution is to create an intelligent chatbot for a banking system. The chatbot can efficiently handle common banking queries like balance inquiries, transaction history, and general account information. It enhances the customer experience by providing quick, accurate, and automated responses through a conversational interface.
+
+### 🛒 Q4 - Supermarket Sales Analysis
+
+This solution involves performing data analysis on a supermarket sales dataset to gain insights into sales trends and customer preferences. By analyzing patterns and visualizing data, the solution highlights the best-selling products and identifies seasonal trends, helping supermarkets make informed decisions.
+
+
+
+
+## 📝 Requirements
+
+Ensure you have Python 3.10 installed on your machine. You may also need to install additional libraries specified in each script.
+
+
+
 
 ## 🤝 Contributing
 
 If you have any suggestions or improvements, feel free to fork the repository, create an issue, or submit a pull request! 🙌
 
+
+
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Good luck with the hackathon! 🎉 Let's get IntelliHack NextGet 2024 rolling! 🚀
 
 
-🙏 Acknowledgements
+
+## 🙏 Acknowledgements
 
 Special thanks to the IntelliHack NextGet 2024 organizers for hosting this exciting hackathon!
+
+
+
+
+
+
+
+
 
