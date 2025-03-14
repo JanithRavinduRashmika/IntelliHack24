@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgements
 
-Special thanks to the IntelliHack NextGet 2024 organizers for hosting this exciting hackathon!
+Special thanks to the IntelliHack NextGen 2024 organizers for hosting this exciting hackathon!
 
 
 
