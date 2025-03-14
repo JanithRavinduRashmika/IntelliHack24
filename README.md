@@ -27,8 +27,6 @@ Each folder contains:
 
 ## 📝 Problem Statements and Solutions
 
-Here’s a quick demo of how the solutions work, using dummy data:
-
 ### 🌾 Q1 - Crop Prediction
 
 The objective of this solution is to predict the most appropriate crop based on environmental conditions such as temperature, humidity, and soil quality. Machine learning techniques are employed to analyze the given data and recommend the best-suited crop.
